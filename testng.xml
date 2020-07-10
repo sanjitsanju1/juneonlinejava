@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="demoxmlcreation" verbose="1" >
+  <test name="xmlsuite" >
+    <classes>
+       <class name="sailabala.Testngbasics2" />
+       
+    </classes>
+  </test>
+</suite>
